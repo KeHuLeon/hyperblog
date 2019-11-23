@@ -1,3 +1,3 @@
-primer proyecto del curso de git
+primer proyecto del curso git-github
 
-kevin esta aprendiendo como usar git
+kevin esta aprendiendo como usar git y el curso esta excelente
