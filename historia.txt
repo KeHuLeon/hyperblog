@@ -1,5 +1,3 @@
-primer proyecto del curso git-github
+primer proyecto del curso de git
 
-kevin esta aprendiendo como usar git y el curso esta excelente.
-
-Pero antes de empezar este curso, comtemos lo que hacia...
+estamos haciendo pruebas muy curiosas
